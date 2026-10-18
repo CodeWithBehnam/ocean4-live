@@ -1,5 +1,13 @@
 # Ocean4 Live
 
+[![Live demo](https://img.shields.io/badge/live_demo-open-d4461a)](https://codewithbehnam.github.io/ocean4-live/)
+![index.html: 35 KB](https://img.shields.io/badge/index.html-35_KB-0b6f7c)
+![Download: 15 KB gzip](https://img.shields.io/badge/download-15_KB_gzip-0b6f7c)
+![Dependencies: none](https://img.shields.io/badge/dependencies-none-0b6f7c)
+![WebGL2](https://img.shields.io/badge/WebGL2-GPU-10232c?logo=webgl&logoColor=white)
+![Physics: Tessendorf FFT ocean and eWave](https://img.shields.io/badge/physics-Tessendorf_FFT_ocean_%2B_eWave-10232c)
+![Built with Claude Fable 5.1 and Opus 5.5](https://img.shields.io/badge/built_with-Claude_Fable_5.1_%2B_Opus_5.5-d97757?logo=claude&logoColor=white)
+
 A live FFT ocean in one HTML file: wind sea, swell, chop, whitecaps and a real Kelvin wake, simulated on your GPU every frame. No libraries, no assets, no build step to run it.
 
 **Open it:** https://codewithbehnam.github.io/ocean4-live/
